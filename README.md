@@ -1,1 +1,1 @@
-<!-- Etch-a-Sketch project for TOP -->
+Etch-a-Sketch project for TOP
